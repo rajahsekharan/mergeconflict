@@ -1,1 +1,1 @@
-Testing file for conflict.
+city:Bangalore
